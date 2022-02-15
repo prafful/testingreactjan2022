@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test snapshot 1`] = `
+<div>
+  <div
+    data-testid="single-4"
+  >
+    <strike>
+      <span>
+        Learn Blockchain
+      </span>
+    </strike>
+  </div>
+</div>
+`;
